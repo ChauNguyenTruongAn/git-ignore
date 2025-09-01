@@ -2,3 +2,6 @@
 
 alo/
 *.log
+
+#i want to ignore file abc.xyz but i want to track myfile.xyz
+/*.xyz
